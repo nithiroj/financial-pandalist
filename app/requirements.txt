@@ -1,0 +1,6 @@
+google-cloud-logging
+google-cloud-aiplatform==1.36.3 
+langchain==0.0.323 
+chromadb==0.4.0
+gradio==3.50.2
+pypdf
